@@ -1,2 +1,2 @@
-# proyects
+# Proyects
 Data analysis - miscellaneous
