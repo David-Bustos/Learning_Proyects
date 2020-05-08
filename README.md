@@ -1,7 +1,7 @@
-#Learning Proyects
+# Learning Proyects
 
-###Resourse Miscellaneous (ML/DL)
+### Resources Miscellaneous (ML/DL)
 
 * Course Notebooks
 * Cheat Sheets
-*  Books and Lecturer
+* Books and Lecturer
