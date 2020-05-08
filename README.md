@@ -2,6 +2,6 @@
 
 Resourse Miscellaneous (ML/DL)
 
-..*Course Notebooks
-..*Cheat Sheets
-..* Books and Lecturer
+* Course Notebooks
+* Cheat Sheets
+*  Books and Lecturer
